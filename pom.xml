@@ -20,9 +20,9 @@
       <id>rpandiri-snapshots</id>
       <url>http://63.142.254.210:8081/#admin/repository/repositories:rpandiri-snapshots</url>
    </snapshotRepository>
-   <releaseRepository>
+   <repository>
       <id>rpandiri-release</id>
       <url>http://63.142.254.210:8081/#admin/repository/repositories:rpandiri-releases</url>
-   </releaseRepository>
+   </repository>
 </distributionManagement>
 </project>
